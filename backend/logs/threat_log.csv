@@ -1,0 +1,19 @@
+timestamp,user_id,resource_accessed,action,data_transferred,threat
+2025-06-22 11:43:35,u3,server2,download,20000,malicious
+2025-06-23 15:07:30,u3,server2,download,20000,malicious
+2025-06-24 10:24:51,u3,server2,download,20000,malicious
+2025-06-25 09:37:18,u3,server2,download,20000,malicious
+2025-06-26 10:12:28,u3,server2,download,20000,malicious
+2025-06-27 09:46:42,u3,server2,download,20000,malicious
+2025-06-27 12:29:35,u3,server2,download,20000,malicious
+2025-06-27 12:29:37,u3,server2,download,20000,malicious
+2025-06-30 12:20:57,u3,server2,download,20000,malicious
+2025-06-30 12:28:16,u3,server2,download,20000,malicious
+2025-06-30 12:29:34,u3,server2,download,20000,malicious
+2025-06-30 12:33:35,u3,server2,download,20000,malicious
+2025-07-01 09:40:30,u3,server2,download,20000,malicious
+2025-07-01 10:43:48,127.0.0.1,test.pdf,download,255.05KB,normal
+2025-07-01 10:44:12,aman,test.pdf,download,255.05KB,normal
+2025-07-01 10:47:44,127.0.0.1,test.pdf,download,255.05KB,normal
+2025-07-01 10:48:08,aman,test.pdf,download,255.05KB,normal
+2025-07-01 10:48:31,aman,test.pdf,download,255.05KB,normal

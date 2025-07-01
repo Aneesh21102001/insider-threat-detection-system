@@ -1,0 +1,4 @@
+user_id,timestamp,resource_accessed,action,data_transferred,label
+u1,2025-05-01 09:00:00,server1,login,0,normal
+u2,2025-05-01 10:15:00,db1,query,500,normal
+u3,2025-05-01 12:00:00,server2,download,20000,malicious

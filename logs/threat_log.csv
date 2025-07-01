@@ -1,0 +1,3 @@
+timestamp,user_id,resource_accessed,action,data_transferred,threat
+2025-07-01 10:25:54,127.0.0.1,test.pdf,download,255.05KB,normal
+2025-07-01 10:36:36,127.0.0.1,test.pdf,download,255.05KB,normal
