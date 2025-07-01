@@ -1,4 +1,3 @@
-Insider Threat Detection System
 A Flask-based web application to monitor file downloads and detect potential insider threats based on user behavior. Built with React for the frontend and Flask for the backend.
 
 🚀 Features
